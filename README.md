@@ -88,6 +88,37 @@ print(me.mission())
 
 ---
 
+### 📂 Interactive AI Lab & Neural Blueprints `[Click to Expand]`
+
+<details>
+<summary><b>🧠 01 // Model Architectures & Deep Learning Pipelines</b></summary>
+<br/>
+
+- **Transformer & Attention Blocks:** Multi-head self-attention mechanisms with rotary positional embeddings (RoPE).
+- **Vision Models:** Fine-tuned ResNet, ConvNeXt, and custom CNNs for real-time visual token extraction and classification.
+- **Optimization:** AdamW optimizer with cosine learning rate scheduling, mixed precision (FP16/BF16) with gradient accumulation.
+- **Live 3D Visualization:** Explore real-time weights and backpropagation steps on the **[3D Interactive Showcase](https://gavisingh12.github.io)**.
+</details>
+
+<details>
+<summary><b>⚡ 02 // Production RAG & Inference Acceleration</b></summary>
+<br/>
+
+- **Retrieval Augmented Generation:** Vector embeddings with FAISS/ChromaDB, semantic hybrid search, and prompt chunk re-ranking.
+- **Latency Optimization:** Sub-15ms inference utilizing ONNX Runtime, TensorRT quantization, and async worker threading.
+- **Deployment:** Containerized Microservices with Docker, FastAPI ASGI routing, and Kubernetes auto-scaling pods.
+</details>
+
+<details>
+<summary><b>🧪 03 // Hands-On In-Browser Live AI Lab (Draw & Predict)</b></summary>
+<br/>
+
+> **Want to test a model live right now?**  
+> Head over to the **[Live AI Tensor Pad](https://gavisingh12.github.io#ai-lab)**, draw any digit (0-9) on the screen, and watch the in-browser model classify your stroke with real-time Softmax probabilities and <5ms inference!
+</details>
+
+---
+
 ### 🚀 Featured Repositories & AI Architecture
 
 | Project | Description | Tech Stack |
