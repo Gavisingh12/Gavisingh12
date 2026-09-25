@@ -12,9 +12,11 @@
 
 <!-- Social & Status Badges -->
 <p align="center">
-  <a href="https://github.com/Gavisingh12"><img src="https://img.shields.io/github/followers/Gavisingh12?label=Followers&logo=github&style=for-the-badge&color=2563EB&logoColor=white" /></a>
-  <a href="https://github.com/Gavisingh12?tab=repositories"><img src="https://img.shields.io/github/repo-size/Gavisingh12/ai-decision-intelligence-platform?label=Top%20Project&style=for-the-badge&color=8B5CF6&logo=github" /></a>
-  <a href="mailto:contact@gavisingh.dev"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gavisingh12.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9C%A8%20LIVE%203D%20MOTION%20SHOWCASE-VISIT%20PORTFOLIO-6366F1?style=for-the-badge&logo=firefox-browser&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/Gavisingh12"><img src="https://img.shields.io/github/followers/Gavisingh12?label=Followers&logo=github&style=for-the-badge&color=2563EB&logoColor=white" height="35" /></a>
+  <a href="https://github.com/Gavisingh12?tab=repositories"><img src="https://img.shields.io/github/repo-size/Gavisingh12/ai-decision-intelligence-platform?label=Top%20Project&style=for-the-badge&color=8B5CF6&logo=github" height="35" /></a>
 </p>
 
 <!-- Animated Cyber/AI Visual Asset -->
