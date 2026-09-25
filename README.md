@@ -124,7 +124,11 @@ print(me.mission())
 ### 🐍 Contribution Activity Flow
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gavisingh12/Gavisingh12/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=Gavisingh12&theme=react-dark&bg_color=0D1117&color=6366F1&line=38BDF8&point=F43F5E&area=true&hide_border=true'" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gavisingh12/Gavisingh12/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gavisingh12/Gavisingh12/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Gavisingh12/Gavisingh12/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
